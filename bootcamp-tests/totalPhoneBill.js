@@ -18,5 +18,3 @@ function totalPhoneBill(bills){
     console.log(Total);
     return "R" + Total.toFixed(2);
   }
-
-  
